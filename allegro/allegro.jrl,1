@@ -1,0 +1,92 @@
+\t (00:00:02) allegro 17.2 S038 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Jul 11 10:08:49 2019
+\t (00:00:02)         Host=DESKTOP-0CCQGI6 User=user Pid=6616 CPUs=4
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ex2_rlc
+\d (00:00:03) Design opened: C:/Users/user/Desktop/work/ex2/allegro/ex2_rlc.brd
+\i (00:00:03) trapsize 361
+\i (00:00:03) trapsize 372
+\i (00:00:04) trapsize 361
+\i (00:00:04) trapsize 379
+\i (00:00:04) generaledit 
+\i (00:00:19) color192 
+\i (00:00:20) generaledit 
+\i (00:00:21) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:00:23) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:00:24) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:00:26) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (00:00:30) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:00:31) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (00:00:32) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:00:32) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:00:33) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:00:34) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:35) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:36) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:36) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:36) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:36) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:36) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:37) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:37) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:38) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:39) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:40) QtSignal CVDLayerTable VertHeader clickedCheckBox 27
+\i (00:00:40) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 27 0
+\i (00:00:41) QtSignal CVDLayerTable VertHeader clickedCheckBox 28
+\i (00:00:41) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 28 0
+\i (00:00:42) QtSignal CVDLayerTable VertHeader clickedCheckBox 29
+\i (00:00:42) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 29 0
+\i (00:00:43) QtSignal CVDLayerTable VertHeader clickedCheckBox 30
+\i (00:00:43) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 30 0
+\i (00:00:48) QtSignal CVDLayerTable VertHeader clickedCheckBox 19
+\i (00:00:48) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 19 0
+\i (00:00:49) QtSignal CVDLayerTable VertHeader clickedCheckBox 20
+\i (00:00:49) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 20 0
+\i (00:00:49) QtSignal CVDLayerTable VertHeader clickedCheckBox 21
+\i (00:00:49) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 21 0
+\i (00:00:50) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:00:56) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 4 2
+\i (00:00:56) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 2
+\i (00:00:56) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:56) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 5 2
+\i (00:00:56) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 2
+\i (00:00:56) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:57) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:01:00) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:02) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Drawing format"
+\i (00:01:05) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Rigid flex"
+\i (00:01:06) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Bond wire profiles"
+\i (00:01:07) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Surface finishes"
+\i (00:01:09) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:01:10) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:01:13) QtSignal CVDLayerTable VertHeader clickedCheckBox 17
+\i (00:01:13) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
+\i (00:01:17) QtSignal CVDLayerTable VertHeader clickedCheckBox 8
+\i (00:01:17) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (00:01:18) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:01:19) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:01:23) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:01:24) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (00:01:26) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:01:27) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:27) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:28) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:28) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:28) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:28) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:28) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:30) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 28 0
+\i (00:01:30) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 28 0
+\i (00:01:31) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:33) QtSignal CVDLayerTable VertHeader clickedCheckBox 28
+\i (00:01:33) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 28 0
+\i (00:01:36) QtSignal CVDLayerTable VertHeader clickedCheckBox 28
+\i (00:01:36) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 28 0
+\i (00:01:38) exit 
+\e (00:01:38) Do you want to save the changes you made to ex2_rlc.brd?
+\i (00:01:39) fillin no 
+\t (00:01:39)     Journal end - Thu Jul 11 10:10:26 2019
